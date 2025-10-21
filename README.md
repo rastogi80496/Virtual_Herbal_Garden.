@@ -3,8 +3,7 @@
 ![flowchart](resources/flowchart.png)
 
 # Virtual Herbal Garden 🌿
-
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/yourusername/Virtual_Herbal_Garden?style=social)](https://github.com/yourusername/Virtual_Herbal_Garden/stargazers)
 
 A web-based platform providing comprehensive knowledge about medicinal plants used in **AYUSH**.  
@@ -24,7 +23,12 @@ A web-based platform providing comprehensive knowledge about medicinal plants us
 
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend / AI Integration:** (Mention if using any frameworks or APIs for ChatBot)  
-- **3D Models:** Sketchfab embeds   
+- **3D Models:** Sketchfab embeds
+
+
+## License
+
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 
 ## Installation
 
